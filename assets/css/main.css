@@ -7,5 +7,5 @@
 .gallery-card>.property-photo{min-height:260px}.lightbox-image.property-photo-contain{width:100%;height:min(68vh,620px)}
 
 /* Compact page banners keep more primary content above the fold. */
-.page-hero{min-height:270px;padding:48px 20px}
-@media(max-width:600px){.page-hero{min-height:230px;padding:38px 18px}.page-hero h1{font-size:2.25rem}}
+.page-hero{min-height:150px;padding:26px 20px}.page-hero h1,.page-intro h1{font-size:clamp(2rem,3vw,2.8rem);margin-bottom:10px}.page-hero .breadcrumbs{margin-bottom:10px}.page-intro{margin-bottom:38px}.photo-credits{margin-top:18px;font-size:.72rem;color:var(--muted)}.photo-credits a{text-decoration:underline;text-underline-offset:2px}
+@media(max-width:600px){.page-hero{min-height:135px;padding:20px 18px}.page-hero h1{font-size:2rem}.page-intro{margin-bottom:30px}}
