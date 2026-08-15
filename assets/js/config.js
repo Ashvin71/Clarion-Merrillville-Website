@@ -1,0 +1,11 @@
+const HOTEL_CONFIG = {
+  hotelName: "Clarion Inn Merrillville",
+  address: "7850 Rhode Island Street, Merrillville, IN 46411",
+  phoneDisplay: "(219) 417-3611",
+  phoneLink: "+12194173611",
+  email: "58541wyndham@gmail.com",
+  bookingUrl: "",
+  choicePropertyUrl: "",
+  mapsUrl: ""
+};
+

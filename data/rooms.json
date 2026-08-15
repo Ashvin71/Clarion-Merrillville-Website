@@ -1,0 +1,5 @@
+[
+  {"id":"one-bed","name":"One-Bed Room","description":"A non-smoking guest room with a mini-fridge, microwave, coffee and tea maker, HDTV with HBO, work desk, ironing amenities, hair dryer and bath products.","image":"assets/images/rooms/clarion-merrillville-one-bed-room.jpg","imageTypeConfirmed":true,"confirmed":true},
+  {"id":"two-bed","name":"Two-Bed Room","description":"A non-smoking guest room with a mini-fridge, microwave, coffee and tea maker, HDTV with HBO, work desk, ironing amenities, hair dryer and bath products.","image":"assets/images/rooms/clarion-merrillville-two-bed-room.jpg","imageTypeConfirmed":true,"confirmed":true},
+  {"id":"accessible","name":"Accessible Accommodations","description":"Contact the hotel directly to discuss available accessibility features for your specific needs.","image":"","imageTypeConfirmed":false,"confirmed":false}
+]

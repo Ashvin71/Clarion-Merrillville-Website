@@ -1,0 +1,13 @@
+[
+  {"id":"wifi","name":"WiFi","description":"Wireless internet access is available for hotel guests.","enabled":true,"source":"authorized legacy property listing"},
+  {"id":"parking","name":"Free Parking","description":"Complimentary on-site parking is listed for hotel guests.","enabled":true,"source":"authorized legacy property listing"},
+  {"id":"breakfast","name":"Free Breakfast","description":"A complimentary breakfast with hot and continental selections is listed for guests.","enabled":true,"source":"authorized legacy property listing"},
+  {"id":"indoor-pool","name":"Indoor Pool","description":"The property includes a heated indoor pool.","enabled":true,"source":"authorized legacy property listing"},
+  {"id":"outdoor-pool","name":"Seasonal Outdoor Pool","description":"An outdoor pool is available seasonally.","enabled":true,"seasonal":true,"source":"authorized legacy property listing"},
+  {"id":"fitness","name":"Fitness Center","description":"The property listing identifies a 24-hour fitness center.","enabled":true,"source":"authorized legacy property listing"},
+  {"id":"business","name":"Business Center","description":"A guest business center is available at the property.","enabled":true,"source":"authorized legacy property listing"},
+  {"id":"front-desk","name":"24-Hour Front Desk","description":"Front-desk assistance is listed as available around the clock.","enabled":true,"source":"authorized legacy property listing"},
+  {"id":"meeting","name":"Meeting & Event Space","description":"The property listing identifies one meeting room with 4,000 square feet of event space and capacity for up to 200 conference or banquet guests.","enabled":true,"confirmationRecommended":true,"source":"authorized legacy property listing"},
+  {"id":"pets","name":"Pet-Friendly Rooms","description":"The property listing allows up to two pets weighing 50 pounds or less each, with an additional nightly fee.","enabled":true,"feeApplies":true,"source":"authorized legacy property listing"},
+  {"id":"accessibility","name":"Accessibility Assistance","description":"Contact the hotel directly to discuss available accessibility features for your specific needs.","enabled":true}
+]
